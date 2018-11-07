@@ -1,0 +1,92 @@
+.menu{
+	padding: 5px;
+}
+.logo img{
+	width: 200px;
+}
+body{
+	font-family: arial;
+}
+.menu a{
+	color: #8B4513;
+	background-color: #DEB887;
+	border-radius: 5px;
+}
+.menu .nav-link.active{
+	background-color: #DEB887;
+}
+li{
+	margin: 5px;
+}
+.banner img{
+	height: 25%;
+}
+
+/* SERVIÇOS
+*''
+*/
+
+body {
+   color: #000;
+   background-color: #fff;
+   font-family: Georgia, serif;
+}
+.wrap div {
+   float: left;
+   border: solid 1px #666;
+   margin: 10px 10px 0 0;
+}
+.wrap a {
+   display: table-cell;
+   text-align: center;
+   vertical-align: middle;
+   background: #CD853F;
+}
+
+/* CONTATO
+*
+*/
+#banner{
+	position: absolute;
+	width: 100%;
+}
+.text-banner h1 {
+	color: #FFFFFF;
+	font-style: normal;
+  	font-size: 5em;
+   	font-family: "arial";
+   	margin-top: 150px;
+   	-webkit-text-stroke-width: 1px;
+	-webkit-text-stroke-color: #61210B;
+}
+.banner-img{
+	background-image: url(../img/oldcar009.jpg);
+	height: 300px;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.cabeca-contato img{
+	width: 80px;
+	height: 80px;
+}
+.btn {
+	border-radius: 5px;
+}
+.text-banner {
+	color: black;
+}
+.text-banner img {
+	width: 5%;
+	height: 5%;
+}
+footer img {
+	width: 100%;
+}
+#contato {
+	background-color: #500;
+	background-image: url(../img/oldcar003.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	padding: 15rem;
+	margin-top: 5em;
+}
